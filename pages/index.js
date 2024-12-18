@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Estou neste exato momento construindo um novo local na internet para compartilhar vagas para todos os níveis de profissionais desenvolvedores de sistemas que contribuem diariamente para a vida das pessoas ser mais simples, através do uso de tecnologia em prol do ser humano.</h1>;
+  return <h1>Estou criando um novo espaço na internet dedicado a compartilhar vagas para desenvolvedores de sistemas de todos os níveis, profissionais que, diariamente, tornam a vida das pessoas mais simples e conectada por meio da tecnologia, sempre em benefício do ser humano.</h1>;
 }
 
 export default Home;
